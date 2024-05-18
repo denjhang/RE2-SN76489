@@ -1,0 +1,2 @@
+# RE2-SN76489
+ The design of RE2-SN76489 has been integrated into RE2-YM3438+SN76489. Here are only pictures of RE1-SN76489. When SPFM Player V2 plays SN VGM, the white noise channel sounds problematic, which once made me suspect that it was my hardware. The design was wrong. Later, MDPlayer fixed this BUG through software updates, and someone said that this BUG was a long-standing defect of SPFM (the so-called SPFM standard is originally like this).
